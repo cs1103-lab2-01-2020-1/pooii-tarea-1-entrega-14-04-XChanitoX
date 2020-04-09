@@ -1,0 +1,3 @@
+/home/marvin/Documents/utec/2020-1/cs1103-2.01/workspace/unidad1/build/CMakeFiles/edit_cache.dir
+/home/marvin/Documents/utec/2020-1/cs1103-2.01/workspace/unidad1/build/CMakeFiles/rebuild_cache.dir
+/home/marvin/Documents/utec/2020-1/cs1103-2.01/workspace/unidad1/build/CMakeFiles/unidad1.dir
